@@ -51,7 +51,7 @@
    ```
    ## Запуск узлов
    Для визуализации видеоптока из топика можно использовать
-    ```bash
+   ```bash
    cd
    cd ~/ros2_ws
    ros2 run rqt_image_view rqt_image_view
